@@ -1,0 +1,13 @@
+body{
+	background-color: #845353;
+	text-align: center;
+
+}
+.space{
+	display: flex;
+	flex-wrap: wrap;
+	height: 300px;
+	width: 400px;
+	margin: 120px auto;
+	background-color: #fff;
+}
